@@ -2,6 +2,8 @@
 
 An end-to-end deep learning project for binary sentiment classification (Positive/Negative) on the IMDB movie reviews dataset using a Simple Recurrent Neural Network (RNN) and an interactive Streamlit web application.
 
+🔗 **Live Demo**: [IMDB Sentiment Analyzer on Streamlit Community Cloud](https://imbd-movie-review-analysis-simple-rnn-2hmn2etappurrtz2kbthasp.streamlit.app)
+
 ---
 
 ## 📌 Features
@@ -78,8 +80,11 @@ pip install -r requirements.txt
 
 ## 💻 Usage
 
-### Run the Streamlit Web Application
+### 🌐 Live Demo
+Access the live deployed application directly in your browser:
+👉 **[Open Streamlit App](https://imbd-movie-review-analysis-simple-rnn-2hmn2etappurrtz2kbthasp.streamlit.app)**
 
+### Run Locally
 Launch the Streamlit app locally:
 
 ```bash
